@@ -15,3 +15,5 @@ Soy un apasionado del análisis de datos, enfocado en utilizar la tecnología pa
 - **Email:** [janki0196@gmail.com](janki0196@icloud.com)
 - **Phone:** +593 960 520 999
 - **LinkedIn:** [Jean Mosquera](https://www.linkedin.com/in/jean-mosquera-7323977127)
+
+![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=janki0196&show_icons=true&theme=radical)

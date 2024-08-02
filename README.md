@@ -1,16 +1,17 @@
-## Hi there 👋
+## Sobre mí 📊
 
-<!--
-**janki0196/janki0196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado del análisis de datos, enfocado en utilizar la tecnología para resolver problemas complejos. Con una formación en derecho y un interés profundo en la tecnología y las finanzas, aporto una perspectiva única a cada proyecto en el que trabajo.
 
-Here are some ideas to get you started:
+🔧 **Habilidades y Herramientas:**
+- **Lenguajes de Programación:** Python, SQL,
+- **Bibliotecas de Análisis de Datos:** Pandas, NumPy, Scikit-learn
+- **Visualización de Datos:** Tableau, Power BI, Matplotlib, Seaborn
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
+- **Herramientas Adicionales:** Excel, Jupyter Notebook, Google Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Me apasiona descubrir patrones y tendencias ocultas en los datos para proporcionar insights accionables y apoyar la toma de decisiones basada en datos.
+
+📬 **Contacto:**
+- **Email:** [janki0196@gmail.com](janki0196@icloud.com)
+- **Phone:** +593 960 520 999
+- **LinkedIn:** [Jean Mosquera](https://www.linkedin.com/in/jean-mosquera-7323977127)

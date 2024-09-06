@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Jean Mosquera!
+[# 👋 ¡Hola, soy Jean Mosquera!
 
 Soy un **Data Analyst** comprometido con la transformación de datos en insights que generen valor. Mi enfoque está en utilizar herramientas avanzadas de análisis y visualización de datos para ayudar a las empresas a tomar decisiones informadas y mejorar sus operaciones. Tengo experiencia trabajando con grandes volúmenes de datos, aplicando técnicas de análisis predictivo, y generando dashboards interactivos que cuentan historias a través de los datos.
 
@@ -51,11 +51,5 @@ Si deseas conocer más sobre mi trabajo o estás interesado en colaborar, no dud
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janki0196@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-mosquera-7323977127)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janki0196)
-
----
-
-## 🎨 Fondo Personalizado
-
-![Header](https://github.com/janki0196/imagenes/header.png)
-
+](https://github.com/janki0196/Estudio-de-Mercado-para-Caf-Robotizado-en-Los-ngeles)
 ---

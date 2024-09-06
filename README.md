@@ -24,13 +24,13 @@ Mi enfoque está en la **solución creativa de problemas** utilizando datos como
 
 Aquí te dejo algunos de mis proyectos más relevantes:
 
-- **[Análisis de Comportamiento de Usuarios en Aplicación Móvil](https://github.com/janki0196/analisis-usuarios-app)**  
+- **[Análisis de Comportamiento de Usuarios en Aplicación Móvil](https://github.com/janki0196/analisis-usuarios-app](https://github.com/janki0196/An-lisis-de-Comportamiento-de-Usuarios-en-Aplicaci-n-M-vil)**  
   Este proyecto utilizó técnicas de análisis RFM y visualización en Tableau para comprender el comportamiento de los usuarios y su segmentación, mejorando la retención de clientes.
 
-- **[Dashboard de Ventas en Excel](https://github.com/janki0196/excel-dashboard)**  
+- **[Dashboard de Ventas en Excel](https://github.com/janki0196/excel-dashboard](https://github.com/janki0196/excel-dashboard)**  
   Un dashboard interactivo para el seguimiento de ventas mensuales, creado con Excel y Power BI, facilitando la visualización de patrones y tendencias de ventas.
 
-- **[Estudio de Mercado para Cafeterías Robotizadas](https://github.com/janki0196/estudio-mercado-cafeterias)**  
+- **[Estudio de Mercado para Cafeterías Robotizadas](https://github.com/janki0196/estudio-mercado-cafeterias](https://github.com/janki0196/Estudio-de-Mercado-para-Caf-Robotizado-en-Los-ngeles)**  
   Estudio de mercado utilizando datos públicos y herramientas de análisis como SQL y Tableau para evaluar la viabilidad de una nueva línea de cafeterías automatizadas.
 
 ---

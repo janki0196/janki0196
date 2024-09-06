@@ -1,4 +1,4 @@
-[# 👋 ¡Hola, soy Jean Mosquera!
+# 👋 ¡Hola, soy Jean Mosquera!
 
 Soy un **Data Analyst** comprometido con la transformación de datos en insights que generen valor. Mi enfoque está en utilizar herramientas avanzadas de análisis y visualización de datos para ayudar a las empresas a tomar decisiones informadas y mejorar sus operaciones. Tengo experiencia trabajando con grandes volúmenes de datos, aplicando técnicas de análisis predictivo, y generando dashboards interactivos que cuentan historias a través de los datos.
 
@@ -24,14 +24,23 @@ Mi enfoque está en la **solución creativa de problemas** utilizando datos como
 
 Aquí te dejo algunos de mis proyectos más relevantes:
 
-- **[Análisis de Comportamiento de Usuarios en Aplicación Móvil](https://github.com/janki0196/analisis-usuarios-app](https://github.com/janki0196/An-lisis-de-Comportamiento-de-Usuarios-en-Aplicaci-n-M-vil)**  
-  Este proyecto utilizó técnicas de análisis RFM y visualización en Tableau para comprender el comportamiento de los usuarios y su segmentación, mejorando la retención de clientes.
+- **[Análisis del Riesgo de Incumplimiento de los Prestatarios](https://github.com/janki0196/-An-lisis-del-riesgo-de-incumplimiento-de-los-prestatarios)**  
+  Este proyecto aborda el análisis de riesgo en el incumplimiento de pagos por parte de prestatarios, utilizando modelos predictivos para identificar patrones de riesgo.
 
-- **[Dashboard de Ventas en Excel](https://github.com/janki0196/excel-dashboard](https://github.com/janki0196/excel-dashboard)**  
-  Un dashboard interactivo para el seguimiento de ventas mensuales, creado con Excel y Power BI, facilitando la visualización de patrones y tendencias de ventas.
+- **[Análisis de Comportamiento de Usuarios en Aplicación Móvil](https://github.com/janki0196/An-lisis-de-Comportamiento-de-Usuarios-en-Aplicaci-n-M-vil)**  
+  Aplicación del método RFM y visualización en Tableau para analizar el comportamiento de los usuarios en una aplicación móvil.
 
-- **[Estudio de Mercado para Cafeterías Robotizadas](https://github.com/janki0196/estudio-mercado-cafeterias](https://github.com/janki0196/Estudio-de-Mercado-para-Caf-Robotizado-en-Los-ngeles)**  
-  Estudio de mercado utilizando datos públicos y herramientas de análisis como SQL y Tableau para evaluar la viabilidad de una nueva línea de cafeterías automatizadas.
+- **[Estudio de Mercado para Cafeterías Robotizadas en Los Ángeles](https://github.com/janki0196/Estudio-de-Mercado-para-Caf-Robotizado-en-Los-ngeles)**  
+  Investigación de mercado para evaluar la viabilidad de la implementación de cafeterías robotizadas en Los Ángeles, analizando datos de tendencias y consumidores.
+
+- **[Hipótesis y Lanzamiento de Test A/B](https://github.com/janki0196/-hip-tesis-lanzar-un-test-A-B)**  
+  Análisis estadístico y desarrollo de hipótesis para la implementación de pruebas A/B, optimizando la estrategia de marketing y las conversiones.
+
+- **[Análisis Exhaustivo de Datos de Taxis](https://github.com/janki0196/an-lisis-exhaustivo-de-datos-taxis)**  
+  Exploración de grandes volúmenes de datos de servicios de taxis para detectar patrones en la demanda y mejorar la logística y operaciones.
+
+- **[Dashboard de Ventas en Excel](https://github.com/janki0196/excel-dashboard)**  
+  Creación de un dashboard interactivo en Excel para visualizar patrones y tendencias de ventas mensuales, facilitando la toma de decisiones.
 
 ---
 
@@ -51,5 +60,5 @@ Si deseas conocer más sobre mi trabajo o estás interesado en colaborar, no dud
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janki0196@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-mosquera-7323977127)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janki0196)
-](https://github.com/janki0196/Estudio-de-Mercado-para-Caf-Robotizado-en-Los-ngeles)
+
 ---

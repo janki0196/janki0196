@@ -1,61 +1,61 @@
-# 👋 ¡Hola, soy Jean Mosquera!
+# 👋 Hi, I'm Jean Mosquera!
 
-Soy un **Data Analyst** comprometido con la transformación de datos en insights que generen valor. Mi enfoque está en utilizar herramientas avanzadas de análisis y visualización de datos para ayudar a las empresas a tomar decisiones informadas y mejorar sus operaciones. Tengo experiencia trabajando con grandes volúmenes de datos, aplicando técnicas de análisis predictivo, y generando dashboards interactivos que cuentan historias a través de los datos.
+I'm a **Data Analyst** passionate about turning data into actionable insights that drive value. I use advanced tools for data analysis and visualization to help businesses make informed decisions and improve their operations. I have experience working with large datasets, applying predictive analysis techniques, and creating interactive dashboards that tell stories through data.
 
-Además, soy trilingüe (italiano, español e inglés) y tengo un profundo interés en el desarrollo tecnológico, lo que me permite adaptarme rápidamente a nuevas herramientas y entornos de trabajo.
-
----
-
-## 🚀 Sobre mí
-
-Mi enfoque está en la **solución creativa de problemas** utilizando datos como base para todas mis decisiones. Estoy en constante aprendizaje, buscando nuevas tecnologías y metodologías para mejorar la eficiencia de los procesos analíticos. Me apasiona el impacto positivo que el análisis de datos puede tener en las empresas y en la sociedad, especialmente en lo relacionado con la toma de decisiones estratégicas.
-
-### 🌟 Tecnologías y Herramientas que uso:
-- **Lenguajes de Programación:** Python, SQL, R
-- **Bibliotecas de Análisis de Datos:** Pandas, NumPy, Scikit-learn
-- **Visualización de Datos:** Tableau, Power BI, Matplotlib, Seaborn
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
-- **Herramientas Adicionales:** Excel, Jupyter Notebook, Google Analytics
-- **Automatización de Procesos:** Selenium, APIs Rest, Bash Scripts
+I'm also trilingual (Italian, Spanish, and English) and have a strong interest in tech development, allowing me to quickly adapt to new tools and work environments.
 
 ---
 
-## 🔥 Proyectos Destacados
+## 🚀 About Me
 
-Aquí te dejo algunos de mis proyectos más relevantes:
+I focus on creative **problem-solving** by leveraging data to drive decision-making. I’m always learning and exploring new technologies to improve analytical processes. I’m passionate about the positive impact data analysis can have on businesses and society, particularly in strategic decision-making.
 
-- **[Análisis del Riesgo de Incumplimiento de los Prestatarios](https://github.com/janki0196/-An-lisis-del-riesgo-de-incumplimiento-de-los-prestatarios)**  
-  Este proyecto aborda el análisis de riesgo en el incumplimiento de pagos por parte de prestatarios, utilizando modelos predictivos para identificar patrones de riesgo.
-
-- **[Análisis de Comportamiento de Usuarios en Aplicación Móvil](https://github.com/janki0196/An-lisis-de-Comportamiento-de-Usuarios-en-Aplicaci-n-M-vil)**  
-  Aplicación del método RFM y visualización en Tableau para analizar el comportamiento de los usuarios en una aplicación móvil.
-
-- **[Estudio de Mercado para Cafeterías Robotizadas en Los Ángeles](https://github.com/janki0196/Estudio-de-Mercado-para-Caf-Robotizado-en-Los-ngeles)**  
-  Investigación de mercado para evaluar la viabilidad de la implementación de cafeterías robotizadas en Los Ángeles, analizando datos de tendencias y consumidores.
-
-- **[Hipótesis y Lanzamiento de Test A/B](https://github.com/janki0196/-hip-tesis-lanzar-un-test-A-B)**  
-  Análisis estadístico y desarrollo de hipótesis para la implementación de pruebas A/B, optimizando la estrategia de marketing y las conversiones.
-
-- **[Análisis Exhaustivo de Datos de Taxis](https://github.com/janki0196/an-lisis-exhaustivo-de-datos-taxis)**  
-  Exploración de grandes volúmenes de datos de servicios de taxis para detectar patrones en la demanda y mejorar la logística y operaciones.
-
-- **[Dashboard de Ventas en Excel](https://github.com/janki0196/excel-dashboard)**  
-  Creación de un dashboard interactivo en Excel para visualizar patrones y tendencias de ventas mensuales, facilitando la toma de decisiones.
+### 🌟 Technologies & Tools I Use:
+- **Programming Languages:** Python, SQL, R
+- **Data Analysis Libraries:** Pandas, NumPy, Scikit-learn
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Additional Tools:** Excel, Jupyter Notebook, Google Analytics
+- **Automation:** Selenium, APIs Rest, Bash Scripts
 
 ---
 
-## 📈 Mis estadísticas de GitHub
+## 🔥 Featured Projects
 
-Aquí puedes ver mis estadísticas en GitHub, reflejando mi trabajo y contribuciones:
+Here are some of my key projects:
+
+- **[Loan Default Risk Analysis](https://github.com/janki0196/-An-lisis-del-riesgo-de-incumplimiento-de-los-prestatarios)**  
+  Predictive modeling to identify risk patterns among loan defaulters.
+
+- **[User Behavior Analysis in a Mobile App](https://github.com/janki0196/An-lisis-de-Comportamiento-de-Usuarios-en-Aplicaci-n-M-vil)**  
+  RFM analysis and Tableau visualization to study user behavior in a mobile app.
+
+- **[Market Study for Robotic Cafes in Los Angeles](https://github.com/janki0196/Estudio-de-Mercado-para-Caf-Robotizado-en-Los-ngeles)**  
+  Market research to assess the viability of robotic cafes in Los Angeles.
+
+- **[A/B Testing Hypotheses & Launch](https://github.com/janki0196/-hip-tesis-lanzar-un-test-A-B)**  
+  Statistical analysis and hypothesis testing for optimizing marketing strategies.
+
+- **[Comprehensive Taxi Data Analysis](https://github.com/janki0196/an-lisis-exhaustivo-de-datos-taxis)**  
+  Exploring taxi service data to identify demand patterns and improve operations.
+
+- **[Sales Dashboard in Excel](https://github.com/janki0196/excel-dashboard)**  
+  Created an interactive Excel dashboard for visualizing monthly sales trends.
+
+---
+
+## 📈 GitHub Stats
+
+Check out my GitHub stats to see my contributions:
 
 ![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=janki0196&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janki0196&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Contacto
+## 🌐 Contact Me
 
-Si deseas conocer más sobre mi trabajo o estás interesado en colaborar, no dudes en contactarme a través de los siguientes medios:
+Feel free to reach out if you’d like to know more about my work or collaborate:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janki0196@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-mosquera-7323977127)
